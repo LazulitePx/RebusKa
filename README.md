@@ -150,8 +150,6 @@ El desarrollo del proyecto se dividirá por modulos para una mejor gestión y re
 </table>
 <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
-
 <!-- LINKS DE REFERENCIAS -->
 [Bootstrap-img]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff
 [Bootstrap-url]: https://getbootstrap.com
