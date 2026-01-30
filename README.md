@@ -74,6 +74,8 @@ El desarrollo del proyecto se dividirá por modulos para una mejor gestión y re
 
 * [![SpringBoot][SpringBoot-img]][SpringBoot-url]
 * [![Java][Java-img]][Java-url]
+* [![JavaScript][JavaScript-img]][JavaScript-url]
+* [![React][React-img]][React-url]
 * [![MySQL][MySQL-img]][MySQL-url]
 * [![Bootstrap][Bootstrap-img]][Bootstrap-url]
 
@@ -91,16 +93,16 @@ El desarrollo del proyecto se dividirá por modulos para una mejor gestión y re
      - [x] Bases de datos
 
 ☑️Fase :two:: Desarrollo
-- [ ] Crear la base de datos
-- [ ] Desarrollar el backend
-    - [ ] API
-    - [ ] Login
-    - [ ] CRUD
+- [x] Crear la base de datos
+- [x] Desarrollar el backend
+    - [x] API
+    - [x] Login
+    - [x] CRUD
     - [ ] Filtros de busqueda
-- [ ] Diseñar el frontend
-     - [ ] Pantallas principales
-     - [ ] Interfaz de usuario
-- [ ] Conectar frontend con backend
+- [x] Diseñar el frontend
+     - [x] Pantallas principales
+     - [x] Interfaz de usuario
+- [x] Conectar frontend con backend
 
 ☑️Fase :three:: Pruebas y Ajustes
 - [ ] Probar el funcionamiento de la página web
@@ -160,6 +162,10 @@ Project Link: [https://github.com/LazulitePx/ProyectoSoftware](https://github.co
 [Bootstrap-url]: https://getbootstrap.com
 [Java-img]: https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white
 [Java-url]: https://www.java.com/es/
+[JavaScript-img]: https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript
+[JavaScript-url]: https://lenguajejs.com/
+[React-img]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
+[React-url]: https://es.react.dev/
 [SpringBoot-img]: https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff
 [SpringBoot-url]: https://spring.io/projects/spring-boot
 [MySQL-img]: https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff
