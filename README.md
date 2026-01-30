@@ -150,11 +150,6 @@ El desarrollo del proyecto se dividirá por modulos para una mejor gestión y re
 </table>
 <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-<!-- CONTACT -->
-## Contacto
-
-Project Link: [https://github.com/LazulitePx/ProyectoSoftware](https://github.com/LazulitePx/ProyectoSoftware)
-
 <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
 <!-- LINKS DE REFERENCIAS -->
